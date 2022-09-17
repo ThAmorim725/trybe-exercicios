@@ -7,16 +7,16 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/ThAmorim725/trybe-exercicios/tree/main/01-fundamentos/bloco-01-unix-bash-e-shell-script)
-- [ ] 1.3 - Fundamentos do Desenvolvimento Web
-- [ ] 1.3 - Introdução - Unix & Shell
-- [ ] 1.3 - Unix & Bash - Parte 1
-- [ ] 1.4 - Unix & Bash - Parte 2
+##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/ThAmorim725/trybe-exercicios/tree/main/01-fundamentos/bloco-01-unix-e-bash/primeiro-merge)
+- [x] 1.3 - Fundamentos do Desenvolvimento Web
+- [x] 1.3 - Introdução - Unix & Shell
+- [x] 1.3 - Unix & Bash - Parte 1
+- [x] 1.4 - Unix & Bash - Parte 2
 
 ##### Bloco 2: [Git, GitHub e Internet](https://github.com/ThAmorim725/trybe-exercicios/tree/main/01-fundamentos/bloco-02-git-github-e-internet)
-- [ ] 2.1 - Git & GitHub  - O que é e para que serve
-- [ ] 2.2 - Git & GitHub - Entendendo os comandos
-- [ ] 2.3 - Internet - Entendendo como ela funciona
+- [x] 2.1 - Git & GitHub  - O que é e para que serve
+- [x] 2.2 - Git & GitHub - Entendendo os comandos
+- [x] 2.3 - Internet - Entendendo como ela funciona
 
 ##### Bloco 3: [Introdução à HTML e CSS](https://github.com/ThAmorim725/trybe-exercicios/tree/main/01-fundamentos/bloco-03-introducao-a-html-e-css)
 - [ ] 3.1 - Introdução - HTML & CSS
